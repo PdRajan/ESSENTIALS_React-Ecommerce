@@ -6,13 +6,6 @@ This repository contains the code for an e-commerce website made with React. The
 ![Register](preview/register.png) ![Login](preview/login.png)
 ![Cart](preview/cart.png)
 
-## Requirements
-
-* Node.js
-* NPM
-* React
-* Styled Components
-* Material UI
 
 ## Installation
 

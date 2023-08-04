@@ -1,0 +1,17 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-ecommerce/node_modules
+/react-ecommerce/.pnp
+/react-ecommerce.pnp.js
+
+# testing
+/react-ecommerce/coverage
+
+# production
+/react-ecommerce/build
+
+
+/react-ecommercenpm-debug.log*
+/react-ecommerceyarn-debug.log*
+/react-ecommerceyarn-error.log*

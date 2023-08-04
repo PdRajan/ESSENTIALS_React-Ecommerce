@@ -4,7 +4,7 @@ This repository contains the code for an e-commerce website made with React. The
 
 ![Website Preview](preview/preview.gif) 
 ![Register](preview/register.png) ![Login](preview/login.png)
-[Cart](preview/cart.png)
+![Cart](preview/cart.png)
 
 ## Requirements
 
